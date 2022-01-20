@@ -3,3 +3,4 @@ C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Services\bin\Debug\Ele
 C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CoreCompileInputs.cache
 C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.AssemblyReference.cache
