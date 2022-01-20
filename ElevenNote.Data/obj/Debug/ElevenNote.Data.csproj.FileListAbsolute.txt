@@ -1,5 +1,3 @@
-C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.AssemblyReference.cache
-C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CoreCompileInputs.cache
 C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll.config
 C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll
 C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Data\bin\Debug\ElevenNote.Data.pdb
@@ -11,6 +9,8 @@ C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Data\bin\Debug\EntityF
 C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Data\bin\Debug\EntityFramework.SqlServer.xml
 C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CoreCompileInputs.cache
 C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
