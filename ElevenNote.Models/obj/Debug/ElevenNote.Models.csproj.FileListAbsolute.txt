@@ -1,0 +1,5 @@
+C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll
+C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Models\bin\Debug\ElevenNote.Models.pdb
+C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+C:\ElevenFiftyProjects\RedBadge\ElevenNote.MVC\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
